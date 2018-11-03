@@ -1,3 +1,5 @@
+[LINE LEGY PATH](https://github.com/muhmursalind/line-protocol/blob/master/LEGY_PATH.txt)
+
 ## Thrift Number Definition
 ```
 STOP = 0
